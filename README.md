@@ -1,7 +1,8 @@
 # Noah Taddesse
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨🏾‍💻+Aspiring+Cybersecurity+Professional)](https://git.io/typing-svg)
 
-Welcome to my GitHub page!
+Welcome to my GitHub!
 
 I am pursuing a career in the dynamic field of cybersecurity. My focus lies in technologies and methodologies to fortify digital landscapes against evolving threats. As well as acquiring knowledge in a range of security tools such as SIEM, SOAR, EDR, and IDS/IPS.
 
