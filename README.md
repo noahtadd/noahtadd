@@ -36,6 +36,7 @@ I stay current with the latest advancements in cybersecurity, participating in h
 <br />
 
 **Network Scanner:** https://medium.com/@noahtadd/network-scanner-w-python3-nmap-8bec29a550c0
+<br />
 
 #
 
