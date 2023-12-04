@@ -32,7 +32,7 @@ I stay current with the latest advancements in cybersecurity, participating in h
 #
 
 ### 🏠🧪 Homelabs
-https://medium.com/@noahtadd/as-i-just-recently-obtained-the-comptia-a-i-thought-it-was-time-to-complete-my-second-build-74909ee15b55
+PC Build: https://medium.com/@noahtadd/as-i-just-recently-obtained-the-comptia-a-i-thought-it-was-time-to-complete-my-second-build-74909ee15b55
 
 #
 
