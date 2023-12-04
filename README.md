@@ -24,6 +24,7 @@ I stay current with the latest advancements in cybersecurity, participating in h
 <br />
 
 #
+
 ### 📑 Industry Certifications
 
 https://www.credly.com/users/noahtaddesse/badges
