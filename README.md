@@ -8,11 +8,6 @@ My learning journey extends beyond tool proficiency, as I actively delve into ne
 I stay current with the latest advancements in cybersecurity, participating in hands-on projects, and pursuing relevant certifications to validate my skills. I am enthusiastic about the opportunity to bring my skills, knowledge, and dedication to a diverse cybersecurity team, where I can play a pivotal role in safeguarding digital assets and ensuring a resilient security infrastructure.
 
 ---
-### 📑 Industry Certifications
-
-https://www.credly.com/users/noahtaddesse/badges
-
-#
 
 ### 🧰 Languages and Tools 
 
@@ -27,6 +22,11 @@ https://www.credly.com/users/noahtaddesse/badges
 <img align="left" alt="Apple" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 
 <br />
+
+#
+### 📑 Industry Certifications
+
+https://www.credly.com/users/noahtaddesse/badges
 
 #
 
