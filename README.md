@@ -1,5 +1,4 @@
-# Noah Taddesse
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨🏾‍💻+Aspiring+Cybersecurity+Professional)](https://git.io/typing-svg)
+# Noah Taddesse [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨🏾‍💻+Aspiring+Cybersecurity+Professional)](https://git.io/typing-svg)
 
 Welcome to my GitHub page!
 
