@@ -32,7 +32,7 @@ https://www.credly.com/users/noahtaddesse/badges
 
 #
 
-### 🏠🧪 Home Labs and Projects
+### 🏠🧪 Home Labs 
 
 **PC Build:** https://medium.com/@noahtadd/as-i-just-recently-obtained-the-comptia-a-i-thought-it-was-time-to-complete-my-second-build-74909ee15b55
 <br />
