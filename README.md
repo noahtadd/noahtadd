@@ -8,8 +8,6 @@ I am pursuing a career in the dynamic field of cybersecurity. My focus lies in t
 
 My learning journey extends beyond tool proficiency, as I actively delve into networking concepts to strengthen my foundation. Understanding the intricacies of network protocols, architectures, and security frameworks is pivotal for building robust defense strategies. 
 
-I stay current with the latest advancements in cybersecurity, participating in hands-on projects, and pursuing relevant certifications to validate my skills. I am enthusiastic about the opportunity to bring my skills, knowledge, and dedication to a diverse cybersecurity team, where I can play a pivotal role in safeguarding digital assets and ensuring a resilient security infrastructure.
-
 ---
 
 ### 🧰 Languages and Tools 
