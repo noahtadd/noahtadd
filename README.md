@@ -40,15 +40,14 @@ https://www.credly.com/users/noahtaddesse/badges
 
 #
 
+### 📺 Youtube Posts
+
+#
+
 ### 📊 Stats
 
 ![Noah Taddesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahtadd&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=noahtadd&theme=tokyonight&border_radius=4.5) -->
 
-<h3>🔥 Streak Stats</h3>
 
-<!-- GitHub Readme Streak Stats - https://github.com/noahtadd/github-readme-streak-stats -->
-  <p>
-    <a href="https://github.com/noahtadd/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noah Taddesse's streak" src="https://streak-stats.demolab.com/?user=noahtadd&theme=monokai-metallian&hide_border=true"/>
