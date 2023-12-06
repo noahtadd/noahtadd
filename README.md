@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I am pursuing a career in the dynamic field of cybersecurity. My focus lies in technologies and methodologies to fortify digital landscapes against evolving threats. As well as acquiring knowledge in a range of security tools such as SIEM, SOAR, EDR, and IDS/IPS.
+I am pursuing a career in the dynamic field of cybersecurity. My focus lies in technologies and methodologies to fortify digital environments against evolving threats. As well as acquiring knowledge in a range of security tools such as SIEM, SOAR, EDR, and IDS/IPS.
 
 My learning journey extends beyond tool proficiency, as I actively delve into networking concepts to strengthen my foundation. Understanding the intricacies of network protocols, architectures, and security frameworks is pivotal for building robust defense strategies. 
 
