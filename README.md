@@ -38,11 +38,6 @@ https://www.credly.com/users/noahtaddesse/badges
 
 #
 
-### 📺 Youtube 
-
-In progress...
-#
-
 ### 📊 Stats
 
 ![Noah Taddesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahtadd&show_icons=true&theme=tokyonight)
