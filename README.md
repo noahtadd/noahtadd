@@ -41,7 +41,6 @@ https://www.credly.com/users/noahtaddesse/badges
 ### 📺 Youtube 
 
 In progress...
-
 #
 
 ### 📊 Stats
