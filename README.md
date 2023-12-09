@@ -36,6 +36,9 @@ https://www.credly.com/users/noahtaddesse/badges
 **Network Scanner:** https://medium.com/@noahtadd/network-scanner-w-python3-nmap-8bec29a550c0
 <br />
 
+**Vulnerability Management Lab w/ Nessus:** https://medium.com/@noahtadd/vulnerability-management-lab-w-nessus-essentials-82ae19480c11
+<br />
+
 #
 
 ### 📊 Stats
