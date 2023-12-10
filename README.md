@@ -33,11 +33,3 @@ https://www.credly.com/users/noahtaddesse/badges
 https://medium.com/@noahtadd
 
 #
-
-### 📊 Stats
-
-![Noah Taddesse's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahtadd&show_icons=true&theme=tokyonight)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=noahtadd&theme=tokyonight&border_radius=4.5) -->
-
-
