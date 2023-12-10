@@ -31,5 +31,3 @@ https://www.credly.com/users/noahtaddesse/badges
 ### 🏠 Home Labs 
 
 https://medium.com/@noahtadd
-
-#
