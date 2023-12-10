@@ -32,8 +32,6 @@ https://www.credly.com/users/noahtaddesse/badges
 
 https://medium.com/@noahtadd
 
-<br />
-
 #
 
 ### 📊 Stats
