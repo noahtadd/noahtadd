@@ -30,13 +30,8 @@ https://www.credly.com/users/noahtaddesse/badges
 
 ### 🏠 Home Labs 
 
-**PC Build w/ Windows 11 Pro:** https://medium.com/@noahtadd/as-i-just-recently-obtained-the-comptia-a-i-thought-it-was-time-to-complete-my-second-build-74909ee15b55
-<br />
+https://medium.com/@noahtadd
 
-**Network Scanner w/ Python:** https://medium.com/@noahtadd/network-scanner-w-python3-nmap-8bec29a550c0
-<br />
-
-**Vulnerability Management Lab w/ Nessus:** https://medium.com/@noahtadd/vulnerability-management-lab-w-nessus-essentials-82ae19480c11
 <br />
 
 #
