@@ -28,6 +28,6 @@ https://www.credly.com/users/noahtaddesse/badges
 
 #
 
-### 🏠Home Labs 
+### 📜Project Portfolio
 
 https://medium.com/@noahtadd
