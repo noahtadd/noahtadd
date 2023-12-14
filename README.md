@@ -10,7 +10,7 @@ My learning journey extends beyond tool proficiency, as I actively delve into ne
 
 ---
 
-### 🧠Skills
+### Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -22,12 +22,12 @@ My learning journey extends beyond tool proficiency, as I actively delve into ne
 
 #
 
-### 📑Certifications
+### Certifications
 
 https://www.credly.com/users/noahtaddesse/badges
 
 #
 
-### 📜Projects
+### Projects
 
 https://medium.com/@noahtadd
