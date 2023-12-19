@@ -1,6 +1,6 @@
 # Noah Taddesse
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨🏾‍💻Cybersecurity+Professional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👨🏾‍💻Aspiring+Cybersecurity+Engineer)](https://git.io/typing-svg)
 
 ---
 
